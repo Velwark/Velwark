@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @Levin1393
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java/Python/JavaScript
+- 👋 Hi, I’m @Velwark
+- 🐧 I love Playing and Configuring Servers and Playing with Linux!
